@@ -9,9 +9,7 @@ permalink: /
 <div class="hero-container">
 
 <div class="hero-image">
-
-<img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Mohit Joshi">
-
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Mohit Joshi">
 </div>
 
 <div class="hero-content">
@@ -21,39 +19,43 @@ permalink: /
 <h2>Ph.D. Research Scholar</h2>
 
 <p class="hero-university">
-Banaras Hindu University, Varanasi
+Department of Computer Science<br>
+Banaras Hindu University, Varanasi, India
+</p>
+
+<p class="hero-tags">
+
+<span>Quantum Computing</span>
+
+<span>Blind Quantum Computation</span>
+
+<span>Quantum Cryptography</span>
+
+<span>Secure Delegated Computing</span>
+
+<span>Quantum Algorithms</span>
+
 </p>
 
 <p class="hero-description">
 
-I work in the area of <strong>Quantum Computing</strong>,
-<strong>Blind Quantum Computation</strong>,
-<strong>Quantum Cryptography</strong>,
-<strong>Secure Delegated Quantum Computing</strong>,
-and <strong>Quantum Searchable Encryption</strong>.
-
 My research focuses on developing practical and resource-efficient
-protocols for secure quantum computation on encrypted data.
+protocols for <strong>Blind Quantum Computation</strong>,
+<strong>Quantum Homomorphic Encryption</strong>,
+and <strong>Secure Delegated Quantum Computing</strong>.
+I also develop open-source software for quantum computing research.
 
 </p>
 
 <div class="hero-buttons">
 
-<a href="/cv/Mohit_Joshi_CV.pdf" class="btn">
-Download CV
-</a>
+<a href="/cv/Mohit_Joshi_CV.pdf" class="btn">CV</a>
 
-<a href="https://scholar.google.com/citations?user=lXgzIDUAAAAJ&hl=en" target="_blank" class="btn">
-Google Scholar
-</a>
+<a href="https://scholar.google.com/" class="btn" target="_blank">Scholar</a>
 
-<a href="https://github.com/joshiCoding" target="_blank" class="btn">
-GitHub
-</a>
+<a href="https://github.com/joshiCoding" class="btn" target="_blank">GitHub</a>
 
-<a href="mailto:joshi.mohit1221@gmail.com" class="btn">
-Email
-</a>
+<a href="mailto:joshi.mohit1221@gmail.com" class="btn">Email</a>
 
 </div>
 
