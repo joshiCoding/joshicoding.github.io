@@ -1,0 +1,41 @@
+- title: "Introduction to Secure Computing using Blind Quantum Computation"
+  type: "Invited Talk"
+  organization: "RNS Institute of Technology"
+  location: "Bengaluru, Karnataka, India"
+  event: ""
+  date: "2026-04-18"
+  slides: ""
+  video: ""
+  featured: true
+
+- title: "Quantum Computing Algorithms"
+  type: "Invited Lecture"
+  organization: "Bapatla Engineering College"
+  location: "Bapatla, Andhra Pradesh, India"
+  event: "Quantum Computing Bootcamp"
+  date: "2026-03-22"
+  end_date: "2026-03-28"
+  slides: ""
+  video: ""
+  featured: true
+
+- title: "Applications of Grover Algorithm"
+  type: "Guest Lecture"
+  organization: "QNepal Initiative"
+  location: "Nepal (Online)"
+  event: "QSilver28"
+  date: "2026"
+  slides: ""
+  video: ""
+  featured: true
+
+- title: "Grover Algorithm and Blind Quantum Computation"
+  type: "Invited Talk"
+  organization: "SASTRA Deemed University"
+  location: "Thanjavur, Tamil Nadu, India"
+  event: "Faculty Development Program on Quantum Computing"
+  date: "2025-06-30"
+  end_date: "2025-07-05"
+  slides: ""
+  video: ""
+  featured: true

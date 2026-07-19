@@ -1,0 +1,109 @@
+- title: "Universal Blind Quantum Computation with Recursive Rotation Gates"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Journal"
+  journal: "Quantum Information Processing"
+  volume: "25"
+  pages: "168"
+  year: 2026
+  publisher: "Springer"
+  quartile: "Q2"
+  impact_factor: "2.2"
+  doi: "https://doi.org/10.1007/s11128-026-05188-z"
+  pdf: "/papers/ubqc_recursive_rotation_gates.pdf"
+  code: ""
+  featured: true
+
+- title: "Quantum Computing on Encrypted Data with Arbitrary Rotation Gates"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Journal"
+  journal: "Physica Scripta"
+  year: 2026
+  publisher: "IOP Publishing"
+  quartile: "Q2"
+  impact_factor: "2.6"
+  doi: "https://doi.org/10.1088/1402-4896/ae6e9c"
+  pdf: "/papers/quantum_computing_encrypted_data.pdf"
+  code: ""
+  featured: true
+
+- title: "Impact of Hardware Connectivity on Grover’s Algorithm in the NISQ Era"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Journal"
+  journal: "Quantum Information Processing"
+  volume: "24"
+  pages: "118"
+  year: 2025
+  publisher: "Springer"
+  quartile: "Q2"
+  impact_factor: "2.2"
+  doi: ""
+  pdf: "/papers/grover_connectivity.pdf"
+  code: ""
+  featured: true
+
+- title: "Leveraging Grover’s Algorithm for Quantum Searchable Encryption in Cloud Infrastructure and its Application in AES Resource Estimation"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Journal"
+  journal: "International Journal of Theoretical Physics"
+  volume: "63"
+  pages: "209"
+  year: 2024
+  publisher: "Springer"
+  quartile: "Q3"
+  impact_factor: "1.7"
+  doi: ""
+  pdf: "/papers/qse_aes_resource_estimation.pdf"
+  code: ""
+  featured: true
+
+- title: "Recent Trends and Open Challenges in Blind Quantum Computation"
+  authors: "Mohit Joshi, S. Karthikeyan, Manoj Kumar Mishra"
+  type: "Conference"
+  conference: "International Conference on Advanced Network Technologies and Intelligent Computing (ANTIC)"
+  publisher: "Springer"
+  year: 2022
+  doi: ""
+  pdf: "/papers/recent_trends_bqc.pdf"
+  featured: false
+
+- title: "Impact of Noise and Hardware Connectivity on Grover’s Quantum Search Algorithm in NISQ Devices"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Conference"
+  conference: "Second Workshop on Applications of Computational Intelligence and Interactive Systems"
+  year: 2024
+  doi: ""
+  pdf: "/papers/noise_connectivity_grover.pdf"
+  featured: false
+
+- title: "Performance of Circuit-Based Blind Quantum Computation in NISQ Era"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Conference"
+  conference: "Intelligent Human Computer Interaction (IHCI 2025)"
+  series: "Lecture Notes in Computer Science"
+  publisher: "Springer"
+  year: 2026
+  doi: ""
+  pdf: "/papers/performance_circuit_based_bqc.pdf"
+  featured: false
+
+- title: "Quantum Computing and New Dimensions in Network Security"
+  authors: "Mohit Joshi, Manoj Kumar Mishra"
+  type: "Book Chapter"
+  book: "Computational Intelligence Applications in Cyber Security"
+  publisher: "CRC Press"
+  pages: "234-246"
+  year: 2024
+  doi: ""
+  pdf: "/papers/network_security_book_chapter.pdf"
+  featured: false
+
+- title: "Quadratically Fast Searching in Quantum Computing: An Overview"
+  authors: "Mohit Joshi, Manoj Kumar Mishra, S. Karthikeyan"
+  type: "Book Chapter"
+  book: "Research Advances in Network Technologies"
+  volume: "3"
+  publisher: "CRC Press"
+  year: 2026
+  doi: ""
+  pdf: "/papers/quadratically_fast_searching.pdf"
+  featured: false
