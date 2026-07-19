@@ -1,25 +1,49 @@
 ---
-permalink: /404.html
 layout: default
+permalink: /404.html
+title: Page Not Found
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+<div class="error-page">
 
-<div class="container">
-  <h1>404</h1>
+    <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+    <h2>Oops! Page Not Found</h2>
+
+    <p>
+        The page you are looking for may have been moved, deleted,
+        or the URL might be incorrect.
+    </p>
+
+    <div class="error-buttons">
+
+        <a class="btn" href="{{ '/' | relative_url }}">
+            Home
+        </a>
+
+        <a class="btn" href="{{ '/research/' | relative_url }}">
+            Research
+        </a>
+
+        <a class="btn" href="{{ '/publications/' | relative_url }}">
+            Publications
+        </a>
+
+        <a class="btn" href="{{ '/software/' | relative_url }}">
+            Software
+        </a>
+
+        <a class="btn" href="{{ '/contact/' | relative_url }}">
+            Contact
+        </a>
+
+    </div>
+
+    <hr>
+
+    <p class="small-text">
+        If you believe this is an error, please feel free to
+        <a href="{{ '/contact/' | relative_url }}">contact me</a>.
+    </p>
+
 </div>

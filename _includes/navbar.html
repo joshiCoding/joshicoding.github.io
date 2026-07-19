@@ -6,13 +6,56 @@
         </a>
 
         <ul class="nav-links">
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/research' | relative_url }}">Research</a></li>
-            <li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
-            <li><a href="{{ '/software' | relative_url }}">Software</a></li>
-            <li><a href="{{ '/talks' | relative_url }}">Talks</a></li>
-            <li><a href="{{ '/teaching' | relative_url }}">Teaching</a></li>
-            <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+
+            <li>
+                <a href="{{ '/' | relative_url }}"
+                   {% if page.url == "/" %}class="active"{% endif %}>
+                    Home
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ '/research/' | relative_url }}"
+                   {% if page.url == "/research/" %}class="active"{% endif %}>
+                    Research
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ '/publications/' | relative_url }}"
+                   {% if page.url == "/publications/" %}class="active"{% endif %}>
+                    Publications
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ '/software/' | relative_url }}"
+                   {% if page.url == "/software/" %}class="active"{% endif %}>
+                    Software
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ '/teaching/' | relative_url }}"
+                   {% if page.url == "/teaching/" %}class="active"{% endif %}>
+                    Teaching
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ '/talks/' | relative_url }}"
+                   {% if page.url == "/talks/" %}class="active"{% endif %}>
+                    Talks
+                </a>
+            </li>
+
+            <li>
+                <a href="{{ '/contact/' | relative_url }}"
+                   {% if page.url == "/contact/" %}class="active"{% endif %}>
+                    Contact
+                </a>
+            </li>
+
         </ul>
 
     </div>
