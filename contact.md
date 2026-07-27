@@ -20,7 +20,7 @@ I welcome inquiries related to **research collaborations, invited talks, teachin
 
 **Name**
 
-Dr. Mohit Joshi *(Ph.D. Candidate)*
+Mr. Mohit Joshi *(Ph.D. Candidate)*
 
 **Department**
 
@@ -32,7 +32,7 @@ Varanasi, Uttar Pradesh, India
 
 **Email**
 
-📧 <a href="mailto:mohit@example.com">mohit@example.com</a>
+📧 <a href="mailto:joshimohit@bhu.ac.in">joshimohit@bhu.ac.in</a>
 
 **Website**
 
@@ -51,19 +51,10 @@ Varanasi, Uttar Pradesh, India
   <https://github.com/joshiCoding>
 
 - 📄 **Google Scholar**  
-  *(Add your profile link)*
-
-- 🔬 **ORCID**  
-  *(Add your ORCID)*
-
-- 📚 **DBLP**  
-  *(Add your DBLP profile)*
-
-- 🧪 **ResearchGate**  
-  *(Add your profile)*
-
+  *[(Mohit Joshi)](https://scholar.google.com/citations?user=lXgzIDUAAAAJ&hl=en)*
+  
 - 💼 **LinkedIn**  
-  *(Add your LinkedIn profile)*
+  *[(Mohit Joshi)](https://www.linkedin.com/in/mohit-joshi-42a1171a6/)*
 
 </div>
 
@@ -100,7 +91,7 @@ I am happy to discuss:
 
 ---
 
-# Office
+# Address
 
 **Department of Computer Science**
 
